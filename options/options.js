@@ -6,5 +6,9 @@ export const globalOptions = {
   "api": "https://testingravind45_dev_41632.botics.co/api/v1"
 };
 export const modulesOptions = {
-  "@modules/app-menu": {}
+  "@modules/app-menu": {
+    "title": "App code ro",
+    "copy": "Routes present",
+    "styles": styles
+  }
 };
