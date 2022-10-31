@@ -10,5 +10,6 @@ export const modulesOptions = {
     "title": "App code ro",
     "copy": "Routes present",
     "styles": styles
-  }
+  },
+  "@modules/articles": {}
 };
